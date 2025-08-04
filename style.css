@@ -1,0 +1,32 @@
+body {
+font-family: sans-serif;
+background-color: #e0f2f7; /* Light blue-ish /
+color: #333;
+line-height: 1.6;
+margin: 0; / Reset default body margin /
+padding: 20px; / Add some padding around the content */
+}
+
+section {
+background-color: #fff; /* White background for sections /
+padding: 20px;
+margin-bottom: 20px;
+border-radius: 8px; / Slightly rounded corners for sections /
+box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); / Subtle shadow for depth */
+}
+h2 {
+text-align: center;
+color: #00bcd4; /* A different shade of blue */
+}
+a {
+color: #007BFF; /* Keep a blue for links /
+text-decoration: none; / Remove the underline for a cleaner look */
+}
+
+a:hover {
+text-decoration: underline; /* Add underline on hover for better interaction */
+}
+h1 {
+    text-align: center;
+    color: #00bcd4;
+}
